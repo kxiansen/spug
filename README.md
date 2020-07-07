@@ -1,18 +1,8 @@
 ## Spug
 
-[![Python3](https://img.shields.io/badge/python-3.x-green.svg?style=plastic)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask-1.0.x-green.svg?style=plastic)](http://flask.pocoo.org/)
-[![Node](https://img.shields.io/badge/node-6.x-green.svg?style=plastic)](https://nodejs.org/)
-[![Element](https://img.shields.io/badge/Element-2.x-green.svg?style=plastic)](http://element-cn.eleme.io/#/zh-CN/)
 
-Spug is an open source O & M management system developed with Python + Flask + Vue + Element. The system is separated from the front and the back of the system to help small and medium-sized enterprises manage the hosts, tasks, deployment, configuration files, monitoring and alarming
 
 Spug是一款使用Python+Flask+Vue+Element组件开发的开源运维管理系统,系统前后端分离,帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警等管理。
-
-#### Demo演示地址：<https://spug.qbangmang.com/login>
-
-#### Demo账号密码：<admin/spug>
-
 
 
 ### Feature 功能
@@ -102,34 +92,13 @@ $ -e MYSQL_HOST = "192.168.1.10"              // 指定数据库地址
 ![image](http://image.qbangmang.com/publish.gif)
 ![image](http://image.qbangmang.com/tasks.gif)
 
-### Docs 开发者文档
+
+
+
+
+
+### 开发者
 ----------------------------
 
- * [Project structure 项目结构](https://github.com/openspug/spug/blob/master/docs/project_structure.md)
- * [前端UI组件](http://element-cn.eleme.io/2.1/#/zh-CN/component/installation)
- * [后端Flask文档](http://flask.pocoo.org/)
 
-
-### Contributor 贡献者
-----------------------------
-#### 1.0.5
-- zyupo 
-- Yooke 
-
-#### 1.0.0
-- zyupo 项目发起者
-- Yooke Spug架构师、熟悉多种开发语言。
-- junun 部分功能开发
-- yuyc  部分功能开发
-
-
-### 开发者群
-----------------------------
-QQ群号: 783951751
-
-![image](http://image.qbangmang.com/spug.png)
-
-### License & Copyright
-----------------------------
-[MIT](https://opensource.org/licenses/MIT)
 
